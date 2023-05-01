@@ -1,0 +1,16 @@
+folium
+streamlit
+pandas
+GeoJsonPopup
+GeoJsonTooltip
+st_folium
+plotly.express
+geopandas
+matplotlib.pyplot
+altair
+os
+scipy.stats
+numpy 
+math
+DivIcon
+warnings
