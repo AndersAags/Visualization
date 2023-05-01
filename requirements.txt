@@ -6,7 +6,6 @@ plotly.express
 geopandas
 matplotlib
 altair
-os
 scipy.stats
 numpy 
 math
