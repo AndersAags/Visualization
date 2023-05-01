@@ -2,7 +2,6 @@ folium
 streamlit
 pandas
 GeoJson
-st_folium
 plotly.express
 geopandas
 matplotlib.pyplot
