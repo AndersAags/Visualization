@@ -6,8 +6,5 @@ plotly.express
 geopandas
 matplotlib
 altair
-scipy.stats
 numpy 
-math
-DivIcon
-warnings
+
