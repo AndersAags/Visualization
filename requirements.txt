@@ -4,7 +4,7 @@ pandas
 GeoJson
 plotly.express
 geopandas
-matplotlib.pyplot
+matplotlib
 altair
 os
 scipy.stats
