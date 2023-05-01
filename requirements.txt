@@ -1,7 +1,7 @@
 folium
 streamlit
 pandas
-GeoJsonPopup
+GeoJson
 GeoJsonTooltip
 st_folium
 plotly.express
