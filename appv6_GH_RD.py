@@ -21,7 +21,7 @@ pd.options.mode.chained_assignment = None
 st.set_page_config(layout="wide")
 
 
-df_final = gpd.read_file('C:/Users/ander/OneDrive - Syddansk Universitet (1)/job/Opgaver/GP visualisering/vs/data/df_geometry_random_data.geojson')
+df_final = gpd.read_file('https://raw.githubusercontent.com/AndersAags/Visualization/main/df_geometry_random_data.geojson')
 
 
 df_final.rename(columns={'Y19_Muni': 'Municipality', 
