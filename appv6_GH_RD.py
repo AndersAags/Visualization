@@ -41,21 +41,6 @@ feature_list =  [
      "Proportion of patients with primary school"     
      ]
 
-#%%
-
-# Set the theme using set_config
-st.set_config(
-    {
-        "theme": "custom",
-        "primaryColor": "#8B0000",
-        "backgroundColor": "#BABDBB",
-        "secondaryBackgroundColor": "#23392C",
-        "textColor": "#FFFFFF",
-        "font": "sans serif"
-    }
-)
-
-
 #%% 
 # st.title("Overskrift", color="#FF0000", align="center")
 
